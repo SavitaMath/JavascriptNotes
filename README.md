@@ -1,4 +1,6 @@
-# Javascript Notes
+# Notes
+
+<b>JAVASCRIPT NOTES :</b>
 <b>Disadvantages of Javascript:</b>
 1. Security: Javascirpt runs on client machine. So malacious user may use javascirpt to do a variety of things like tracking your browser history,stealing passwords etc. therfore many disable javascript.
 2. Browser compatibility: Not all browser treat the javascript code in the same manner.therfore cross browser testing is required. however with javascript libraries like jquery browser compatibility is no longer an issue. innerText property works in IE & chrome but not in firefox. therefore need to replace with textContent.
